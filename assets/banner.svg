@@ -2,7 +2,8 @@
     width="1200"
     height="350"
     viewBox="0 0 1200 350"
-    xmlns="http://www.w3.org/2000/svg">
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
 
 <defs>
 
@@ -40,7 +41,8 @@
 <!-- Profile image -->
 
 <image
-    href="profile.jpeg"
+    href="https://raw.githubusercontent.com/matthewzahra/matthewzahra/main/assets/profile.jpeg"
+    xlink:href="https://raw.githubusercontent.com/matthewzahra/matthewzahra/main/assets/profile.jpeg"
     x="95"
     y="70"
     width="210"

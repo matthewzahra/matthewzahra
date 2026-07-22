@@ -72,13 +72,34 @@
     fill="#010409"
     stroke="#30363D"/>
 
+<!-- Terminal title bar -->
+<path
+    d="M444 35 H1151 Q1165 35 1165 49 V80 H430 V49 Q430 35 444 35"
+    fill="#0D1117"/>
+
+<!-- Divider line between terminal title bar and terminal -->
+<line
+    x1="430"
+    y1="80"
+    x2="1165"
+    y2="80"
+    stroke="#30363D"/>
+
+<!-- Dots at top of terminal -->
+<circle cx="465" cy="58" r="7" fill="#ff5f56"/>
+<circle cx="490" cy="58" r="7" fill="#ffbd2e"/>
+<circle cx="515" cy="58" r="7" fill="#27c93f"/>
 
 <!-- Terminal header -->
-
-<circle cx="465" cy="75" r="7" fill="#ff5f56"/>
-<circle cx="490" cy="75" r="7" fill="#ffbd2e"/>
-<circle cx="515" cy="75" r="7" fill="#27c93f"/>
-
+<text
+    x="800"
+    y="64"
+    text-anchor="middle"
+    font-family="JetBrains Mono, monospace"
+    font-size="14"
+    fill="#8B949E">
+    matthewzahra@github: ~
+</text>
 
 <!-- Terminal text -->
 

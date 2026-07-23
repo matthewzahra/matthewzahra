@@ -185,8 +185,21 @@
     font-family="JetBrains Mono, monospace"
     font-size="18"
     fill="#58A6FF">
-    matthewzahra@github:~$ _
+    matthewzahra@github:~$
 </text>
 
+<text
+    x="715"
+    y="360"
+    font-family="JetBrains Mono, monospace"
+    font-size="18"
+    fill="#58A6FF">
+    █
+    <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="1s"
+        repeatCount="indefinite"/>
+</text>
 
 </svg>
